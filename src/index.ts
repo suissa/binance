@@ -1,5 +1,6 @@
 export * from './';
 export * from './main-client';
+export * from './coinm-client';
 export * from './usdm-client';
 export * from './websocket-client';
 export * from './logger';
