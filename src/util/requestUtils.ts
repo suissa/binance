@@ -141,6 +141,7 @@ const BINANCE_BASE_URLS: Record<BinanceBaseUrlKey, string> = {
 
   // COINM Futures
   coinm: 'https://dapi.binance.com',
+  coinmtest: 'https://testnet.binancefuture.com',
   // testnet is same as `usdmtest`
 
   // Vanilla Options
